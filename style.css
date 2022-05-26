@@ -116,7 +116,7 @@ li a {
 .programms {
     display: flex;
     justify-content: space-around;
-    margin: 90px 250px 0 250px;
+    margin: 90px 250px 110px 250px;
     color: #828282;
 }
 
