@@ -131,25 +131,25 @@ li a {
 }
 
 .PS {
-    background-image: url(img/4stars.svg);
+    background-image: url(img/4stars.png);
     background-repeat: no-repeat;
     background-position-y: bottom;
 }
 
 .AI {
-    background-image: url(img/3stars.svg);
+    background-image: url(img/3stars.png);
     background-repeat: no-repeat;
     background-position-y: bottom;
 }
 
 .AE {
-    background-image: url(img/4stars.svg);
+    background-image: url(img/4stars.png);
     background-repeat: no-repeat;
     background-position-y: bottom;
 }
 
 .FIGMA {
-    background-image: url(img/4stars.svg);
+    background-image: url(img/4stars.png);
     background-repeat: no-repeat;
     background-position-y: bottom;
 }
